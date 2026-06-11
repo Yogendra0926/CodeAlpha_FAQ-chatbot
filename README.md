@@ -19,4 +19,6 @@ An NLP-based FAQ Chatbot built using Python, NLTK, TF-IDF, Cosine Similarity, an
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+or
+python -m streamlit run app.py
 ```
